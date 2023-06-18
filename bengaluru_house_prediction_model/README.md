@@ -5,15 +5,15 @@ The dataset used in this model is named as " Bengaluru_House_Data.csv".
 
 All columns used in this dataset and their type is given below: columns datatype
   columns                         dtype
-1. area_type                      object 
-2. availability                   object 
-3. location                       object 
-4. size                           object 
-5. society                        object 
-6. total_sqft                     object 
-7. bath                           float64
-8. balcony                        float64
-9. price                          float64
+1. area_type            ----      object 
+2. availability         ----      object 
+3. location             ----      object 
+4. size                 ----      object 
+5. society              ----      object 
+6. total_sqft           ----      object 
+7. bath                 ----      float64
+8. balcony              ----      float64
+9. price                ----      float64
 
 This dataset contains total "13320" entries.
 
