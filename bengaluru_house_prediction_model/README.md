@@ -18,3 +18,7 @@ All columns used in this dataset and their type is given below: columns datatype
 This dataset contains total "13320" entries.
 
 Then we apply some Datacleaning and Data Transformation Techniques in our Dataset
+
+And this is our final product demonstrating the amt of the house in Indra Nagar
+
+![Screenshot (76)](https://github.com/prashantsingh5/Machine-Learning-Projects/assets/136187698/55f28df9-0f6f-4b80-bdbe-7eaf2c715c4a)
