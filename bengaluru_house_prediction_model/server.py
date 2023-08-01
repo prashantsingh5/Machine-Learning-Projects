@@ -28,5 +28,8 @@ def predict_home_price():
 
 if __name__ == "__main__":
     print("Starting Python Flask Server For Home Price Prediction...")
-    util.load_saved_artifacts()
-    app.run()
+    try:
+        util.load_saved_artifacts()
+    except Exception as e:
+        print("Error loading saved artifacts:", str(e))
+    app.run(debug=True)
